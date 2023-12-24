@@ -12,30 +12,6 @@ The Bank Application is a simple graphical user interface (GUI) application deve
 - Registration: New users can register by providing their personal information.
 - Data Persistence: User data, including usernames, passwords, and account balances, is stored in a file ('app.dat') using the Pickle library.
 
-## Prerequisites
-
-- Python 3.x installed on your system.
-
-## Getting Started
-
-1. Clone or download the project repository to your local machine.
-
-```bash
-git clone https://github.com/your-username/bank-application.git
-```
-
-2. Navigate to the project directory.
-
-```bash
-cd bank-application
-```
-
-3. Run the application.
-
-```bash
-python bank_app.py
-```
-
 ## Usage
 
 - **Login**: Enter your username and password to log in.
