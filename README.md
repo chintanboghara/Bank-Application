@@ -1,4 +1,4 @@
-# Bank Application
+# Bank application using Python with Tkinter GUI
 
 ## Description
 
