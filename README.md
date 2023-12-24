@@ -23,4 +23,4 @@ The Bank Application is a simple graphical user interface (GUI) application deve
 
 ## Known Issues
 
-- The application does not include advanced security features, and it is intended for educational purposes. Do not use it in a production environment.
+- The application does not include advanced security features.
